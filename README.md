@@ -1,1 +1,4 @@
-# React-Remider-Birthday
+# React-Reminder-Birthday
+
+- UseState
+- Styled-components
