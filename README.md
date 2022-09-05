@@ -2,3 +2,5 @@
 
 - UseState
 - Styled-components
+  ++ Basic Styled Component
+  ++ Global Styled
